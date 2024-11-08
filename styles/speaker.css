@@ -14,6 +14,10 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
+figcaption{
+	font-weigth: bold;
+	border-bottom: 1px solid black;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
